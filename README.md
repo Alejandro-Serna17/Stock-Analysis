@@ -27,7 +27,8 @@
    ```bash
    python3 main.py
    ```
-6. Launch the provided localhost.
+6. Launch the provided localhost.<br>
+   e.g.
     ```
     http://127.0.0.1:8050/
     ```
