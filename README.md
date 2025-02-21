@@ -1,8 +1,7 @@
 # Stock Analysis
 ![Stock-Analysys](https://github.com/user-attachments/assets/b1def629-03f5-4ba5-aea4-3c26589ef5be)
-
-Stock Analysis is an app that uses pandas to read a CSV file containing stock market data, then it uses Dash and Plotly to display the data requested. 
 ---
+#### Stock Analysis is an app that uses pandas to read a CSV file containing stock market data, then it uses Dash and Plotly to display the requested data. 
 
 ### Setup
 
